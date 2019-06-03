@@ -1,6 +1,6 @@
 # news-app
 
-> News resourse app
+> News resourse app with nuxt, vuetify and news API
 
 ## Build Setup
 
